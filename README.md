@@ -12,18 +12,18 @@ Meu nome é Adriano Júnio, tenho 27 anos e moro em Igarapé, Minas Gerais. Atua
             src="https://img.shields.io/badge/@adking.dev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
         />
     </a>
-    <a href="https://github.com/KingRodrigues?tab=repositories&sort=stargazers" target="_blank">
+    <a href="https://github.com/AdKingDev?tab=repositories&sort=stargazers" target="_blank">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/KingRodrigues?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/AdKingDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/KingRodrigues?tab=followers" target="_blank">
+    <a href="https://github.com/AdKingDev?tab=followers" target="_blank">
         <img 
             alt="Seguidores no GitHub" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/KingRodrigues?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/AdKingDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
