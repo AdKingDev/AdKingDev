@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Meu nome é Adriano Júnio, tenho 27 anos e moro em Igarapé, Minas Gerais. Atualmente estou estudando HTML5, CSS3, JavaScript, Japonês e Inglês por conta própria, utilizando plataformas como Curso em Vídeo e Duolingo. Sou apaixonado por programação e estou sempre tentando aprender mais para evoluir como desenvolvedor.
+Meu nome é Adriano Júnio, tenho 28 anos e moro em Igarapé, Minas Gerais. Atualmente estou estudando HTML5, CSS3, JavaScript, Japonês e Inglês por conta própria, utilizando plataformas como Curso em Vídeo e Duolingo. Sou apaixonado por programação e estou sempre tentando aprender mais para evoluir como desenvolvedor.
 
 <p align="left">
     <a href="https://instagram.com/adking.dev" target="_blank">
