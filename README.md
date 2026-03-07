@@ -39,25 +39,3 @@ Meu nome é Adriano Júnio, tenho 28 anos e moro em Igarapé, Minas Gerais. Atua
 
 <br />
 <br />
-
----
-
-### 📊 Estatísticas GitHub
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AdKingDev&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkingdev&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-  />
-
-</p>
