@@ -1,41 +1,93 @@
-# <title>👨🏻‍💻 Adriano Júnio</title>
+<h1 align="center">👋 Olá, eu sou o Adriano Júnio!</h1>
 
-**`Desenvolvedor Web`**
-
-Meu nome é Adriano Júnio, tenho 28 anos e moro em Igarapé, Minas Gerais. Atualmente estou estudando HTML5, CSS3, JavaScript, Japonês e Inglês por conta própria, utilizando plataformas como Curso em Vídeo e Duolingo. Sou apaixonado por programação e estou sempre tentando aprender mais para evoluir como desenvolvedor. Estou atualmente graduando em Análise e Desenvolvimento de Sistemas pela faculdade Estácio.
-
-<p align="left">
-    <a href="https://instagram.com/adking.dev" target="_blank">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/@adking.dev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/AdKingDev?tab=repositories&sort=stargazers" target="_blank">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AdKingDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
-        />
-    </a>
-    <a href="https://github.com/AdKingDev?tab=followers" target="_blank">
-        <img 
-            alt="Seguidores no GitHub" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AdKingDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
+<p align="center">
+    💻 Desenvolvedor em formação, focado principalmente em <strong>Front-end</strong> e <strong>JavaScript</strong>.
 </p>
 
+## 🚀 Sobre mim
+
+Atualmente estou fortalecendo minha base em desenvolvimento web através de estudos constantes e projetos práticos, sempre buscando entender não apenas como fazer algo funcionar, mas também como escrever códigos mais organizados, claros e profissionais.
+
+* 🌐 Estudando **HTML, CSS e JavaScript**
+* ⚛️ Próximo objetivo: aprofundar meus conhecimentos em **React**
+* 🧠 Focado em melhorar minha **lógica de programação**
+* 🛠️ Gosto de transformar ideias em projetos reais
+* 🔐 Tenho interesse futuro em **Cybersecurity**
+* 📚 Sempre buscando aprender algo novo e evoluir como desenvolvedor
+
+## 🛠️ Tecnologias
+
+### Front-End
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### Outros conhecimentos
+<img src="https://skillicons.dev/icons?i=python" />
+
+### Ferramentas
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+
+## 📌 Projetos em destaque
+
+### 🃏 Poker World
+
+Site educacional sobre **Texas Hold'em**, desenvolvido para ajudar jogadores iniciantes a aprender regras, ações, ranking das mãos e conceitos fundamentais do poker.
+
+#### Tecnologias:
+
+<img src="https://skillicons.dev/icons?i=html,css,js" width='120px'/>
+
+📂 [Repositório](https://github.com/AdKingDev/####) | 🌐 [Demo](https://###)
+
+### 🧮 Calculadora
+
+Projeto desenvolvido para praticar lógica de programação, manipulação do DOM, eventos e operações matemáticas utilizando JavaScript.
+
+#### Tecnologias:
+
+<img src="https://skillicons.dev/icons?i=html,css,js" width='120px'/>
+
+📂 [Repositório](https://github.com/AdKingDev/####) | 🌐 [Demo](https://###)
+
+### 💰 Calculadora de Gorjetas
+
+Aplicação para calcular automaticamente o valor total de uma conta considerando a porcentagem de gorjeta.
+
+#### Tecnologias:
+
+<img src="https://skillicons.dev/icons?i=html,css,js" width='120px'/>
+
+📂 [Repositório](https://github.com/AdKingDev/calculadora-de-gorjetas) | 🌐 [Demo](https://calculadora-de-gorjetas-sigma.vercel.app/)
+
+## 📊 Linguagens nos meus projetos
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdKingDev&theme=github_dark" />
+
+## 📈 Atualmente aprendendo
+
+```javascript
+const desenvolvedor = {
+  nome: "Adriano",
+  foco: "Front-end",
+  estudando: ["JavaScript", "CSS", "Git"],
+  proximoPasso: "React",
+  objetivo: "Evoluir um pouco todos os dias"
+};
+```
+
+## 🎯 Roadmap
+
+- [x] HTML
+- [x] Fundamentos de CSS
+- [x] Fundamentos de JavaScript
+- [ ] JavaScript avançado
+- [ ] React
+- [ ] Back-End
+- [ ] Cybersecurity
+
+## 📫 Contato
+
+Você pode acompanhar meus projetos e minha evolução através dos meus repositórios aqui no GitHub e no LinkedIn.
+
+[Repositório](https://github.com/AdKingDev) | [LinkedIn](https://www.linkedin.com/in/adrianojuniorodrigues/) | [Portfólio](https://meu-portfolio-rho-eight.vercel.app/)
+
 ---
-
-### 🚀 Tecnologias que uso
-
-<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-<br />
-<br />
