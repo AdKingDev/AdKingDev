@@ -36,7 +36,7 @@ Site educacional sobre **Texas Hold'em**, desenvolvido para ajudar jogadores ini
 
 <img src="https://skillicons.dev/icons?i=html,css,js" width='120px'/>
 
-📂 [Repositório](https://github.com/AdKingDev/####) | 🌐 [Demo](https://###)
+📂 [Repositório](https://github.com/AdKingDev/calculadora-morningstar) | 🌐 [Demo](https://calculadora-morningstar.vercel.app/)
 
 ### 🧮 Calculadora
 
