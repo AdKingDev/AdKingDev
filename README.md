@@ -46,7 +46,7 @@ Projeto desenvolvido para praticar lógica de programação, manipulação do DO
 
 <img src="https://skillicons.dev/icons?i=html,css,js" width='120px'/>
 
-📂 [Repositório](https://github.com/AdKingDev/####) | 🌐 [Demo](https://###)
+📂 [Repositório](https://github.com/AdKingDev/calculadora-morningstar) | 🌐 [Demo](https://calculadora-morningstar.vercel.app/)
 
 ### 💰 Calculadora de Gorjetas
 
